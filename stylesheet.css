@@ -1,0 +1,59 @@
+.kotak{
+    margin: auto;
+    width: 750px;
+    height: 750px;
+}
+.judul{
+    background-color: royalblue;
+    margin-top: -16px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.judul ul li {
+    display: inline-block;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.judul a {
+    text-decoration: none;
+    color: black;
+}
+.judul2{
+    margin-top: -10px;
+}
+.judul2 ul li{
+    display: inline-block;
+    font-weight: bold;
+}
+.judul2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.judul3 p{
+    display: inline-block;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-top: -1px;
+    background-color: royalblue;
+}
+.p1{
+    width: 200px;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.p2{
+    width: 250px;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.teks{
+    font-family: arial;
+    color: royalblue;
+
+}
